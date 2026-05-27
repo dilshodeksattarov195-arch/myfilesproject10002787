@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondncrypt",
+        "uuid": 9250053,
+        "checksum": "lzlbf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
